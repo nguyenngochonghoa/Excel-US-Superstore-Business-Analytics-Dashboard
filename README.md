@@ -21,7 +21,7 @@ By bridging **data analysis** and **business decision-making**, this project sho
 
 ---
 
-## 📊 Dataset  
+## Dataset  
 - **Source**: [Kaggle – US Superstore](https://www.kaggle.com/datasets/juhi1994/superstore?resource=download)  
 - **Period**: 2014–2017  
 - **Size**: 10,001 rows × 21 fields (after cleaning)  
@@ -34,7 +34,7 @@ By bridging **data analysis** and **business decision-making**, this project sho
 
 ---
 
-## ❓ Business Questions  
+## Business Questions  
 The dashboard was designed to answer:  
 - Sales & Profit for the latest year vs previous year  
 - YoY Growth (%) for Sales & Profit  
@@ -45,7 +45,7 @@ The dashboard was designed to answer:
 
 ---
 
-## 🛠️ Techniques Applied  
+## Techniques Applied  
 - Pivot Tables & Pivot Charts  
 - Slicers & Filters (Category, Segment, Ship Mode)  
 - Custom Formulas & Conditional Formatting  
@@ -53,7 +53,7 @@ The dashboard was designed to answer:
 
 ---
 
-## 📈 Dashboard Features  
+## Dashboard Features  
 - **KPI Cards** → Sales & Profit (latest year vs PY), YoY Growth  
 - **Filters** → Category, Segment, Ship Mode  
 - **Breakdowns** → Sales by Sub-category & City (2016 vs 2017)  
@@ -61,7 +61,7 @@ The dashboard was designed to answer:
 
 ---
 
-## 🔎 Key Insights  
+## Key Insights  
 - **2017 Sales**: 733K (+20.4% YoY)  
 - **2017 Profit**: 93K (+14.2% YoY)  
 - **Category Trends** → High growth in Appliances (+64.8%) & Accessories (+43.1%), but Machines (–22.1%) declined.  
@@ -71,7 +71,7 @@ The dashboard was designed to answer:
 
 ---
 
-## ⚠️ Limitations  
+## Limitations  
 - Data limited to **2014–2017 (historical only)**  
 - Profit map aggregates all years (not by year)  
 - Dashboard built in **Excel only**  
@@ -79,7 +79,7 @@ The dashboard was designed to answer:
 
 ---
 
-## 🚀 Future Development  
+## Future Development  
 - Add **forecasting models** (Prophet, ARIMA)  
 - Integrate **real-time data refresh**  
 - Expand to **Customer Segmentation (RFM/CLV)**  
@@ -87,7 +87,7 @@ The dashboard was designed to answer:
 
 ---
 
-## ▶️ How to Run  
+## How to Run  
 1. Download repo files and open `US_Superstore_Dashboard.xlsm`  
 2. Enable Macros for VBA functionality  
 3. Use slicers (Category, Segment, Ship Mode) to interact  
