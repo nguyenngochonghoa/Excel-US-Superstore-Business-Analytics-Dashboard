@@ -13,7 +13,7 @@ By bridging **data analysis** and **business decision-making**, this project sho
 
 ---
 
-## 1. 📌 Introduction
+## 1. Introduction
 This project presents an **interactive Excel dashboard** analyzing sales and profit trends for the **US Superstore dataset (2014–2017)**.  
 The dashboard helps answer key business questions such as:
 - Year-over-year growth in Sales and Profit  
