@@ -19,7 +19,7 @@ This project was built to:
 
 By bridging **data analysis** and **business decision-making**, this project showcases the value of analytics in driving strategic actions.  
 
---
+---
 
 ## 📊 Dataset  
 - **Source**: [Kaggle – US Superstore](https://www.kaggle.com/datasets/juhi1994/superstore?resource=download)  
