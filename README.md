@@ -25,8 +25,7 @@ The dashboard helps answer key business questions such as:
 
 ---
 
-## 2. Dataset
-- **Source:** Kaggle – US Superstore  
+## 2. Dataset 
 - **Period:** 2014–2017  
 - **Size:** 10,001 rows × 21 fields (after cleaning)  
 - **Main fields:** `Order Date`, `Ship Date`, `Ship Mode`, `Customer`, `Segment`, `Region`, `Category`, `Sub-category`, `Sales`, `Quantity`, `Discount`, `Profit`  
@@ -37,7 +36,6 @@ The dashboard helps answer key business questions such as:
 - Removed duplicates (7 rows)  
 - Loaded cleaned dataset for dashboard creation
 <img width="317" height="511" alt="image" src="https://github.com/user-attachments/assets/c7ad2908-8e19-493a-b4a8-1e5114043cec" />
-
 
 ---
 
@@ -80,7 +78,8 @@ The dashboard was designed to answer:
 - **Maps & Trends:**  
   - Profit by State (2014–2017 aggregated)  
   - Monthly sales trends by year  
-  - Top 10 & Bottom 10 States (all-time sales)  
+  - Top 10 & Bottom 10 States (all-time sales)
+<img width="1572" height="700" alt="image" src="https://github.com/user-attachments/assets/3a421f87-ed1b-4f59-89e0-bd416386a1cd" />
 
 ---
 
