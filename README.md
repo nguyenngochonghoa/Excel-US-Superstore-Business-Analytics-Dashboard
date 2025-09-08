@@ -1,4 +1,4 @@
-# 🏬 US Superstore Business Analytics Dashboard (Excel)
+# US Superstore Business Analytics Dashboard (Excel)
 
 ## 🎯 Why This Project?  
 In the fast-growing retail industry, data-driven decisions are essential for sustainable growth.  
@@ -35,7 +35,9 @@ The dashboard helps answer key business questions such as:
 - Promoted headers, formatted data types  
 - Removed invalid/missing values (4 rows)  
 - Removed duplicates (7 rows)  
-- Loaded cleaned dataset for dashboard creation  
+- Loaded cleaned dataset for dashboard creation
+<img width="317" height="511" alt="image" src="https://github.com/user-attachments/assets/c7ad2908-8e19-493a-b4a8-1e5114043cec" />
+
 
 ---
 
