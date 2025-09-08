@@ -79,7 +79,7 @@ The dashboard was designed to answer:
   - Profit by State (2014–2017 aggregated)  
   - Monthly sales trends by year  
   - Top 10 & Bottom 10 States (all-time sales)
-<img width="1580" height="713" alt="image" src="https://github.com/user-attachments/assets/8a1cbd35-a0fe-4bf8-845b-705225e5d05d" />
+<img width="1575" height="711" alt="image" src="https://github.com/user-attachments/assets/8e3c5df4-6df6-42af-9914-859695b5a919" />
 
 ---
 
