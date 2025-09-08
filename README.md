@@ -84,36 +84,203 @@ The dashboard was designed to answer:
 ---
 
 ## 6. Key Insights
-### Overall Performance
-- **2017 Sales:** 733,215.3 vs 2016: 609,205.6 → **+20.36% growth**  
-- **2017 Profit:** 93,439.3 vs 2016: 81,795.2 → **+14.24% growth**  
-- Sales growth outpaced profit growth → possible margin pressure.  
+### Business Performance Analysis & Recommendations (2017 vs 2016)
 
-### Category & Sub-Category Trends
-- 2017 Sales: **642,486 (+20.4% YoY)**  
-- High growth: Appliances (+64.8%), Binders (+46.5%), Accessories (+43.1%)  
-- Weak: Tables (+0.1%), Machines (–22.1%)  
+### 1. Overall KPIs
+- **Sales (2017):** 733,215.3  
+- **Sales (2016):** 609,205.6  
+- **Sales Growth:** +20.36%  
+- **Profit (2017):** 93,439.3  
+- **Profit (2016):** 81,795.2  
+- **Profit Growth:** +14.24%  
 
-### Regional & City-Level
-- 2017 City Sales: **339,408 (+27.5% YoY)**  
-- High growth cities: Seattle (+252.7%), Columbus (+84.8%), NYC (+58.6%)  
-- Declines: Lafayette (–69.5%), Detroit (–42.7%), LA (–13.3%)  
+**Insight:**  
+2017 was a successful year with strong sales and profit growth. However, the profit growth rate (+14.24%) lagged behind sales growth (+20.36%), indicating potential margin pressure.
 
-### Customer Segments
-- **Consumer:** +20.4% YoY, strong in Appliances & Binders  
-- **Corporate:** +12.2% YoY, Appliances (+101.8%), Phones (+54.5%)  
-- **Home Office:** +16.3% YoY, Binders (+161.2%), Appliances (+117.4%)  
+**Recommendation:**  
+Focus on cost control and pricing optimization to ensure profit growth keeps pace with sales growth.
 
-⚠️ Risk: Machines, Tables, Copiers show consistent decline.  
+---
 
-### Seasonality
-- Sales peak in **Q4 (Nov–Dec)** every year  
-- Slight dip in **Oct 2017** → possible promo timing issue  
+### 2. Subcategory Performance
 
-### State-Level
-- **Highest Sales (all-time):** California (457,688), New York (310,876)  
-- **Lowest Sales:** Idaho, South Dakota, Nebraska (<1,000)  
-- Indicates market concentration → prioritize strong states.  
+#### Overall Top 10 Subcategories
+- **Total Sales 2017:** 642,486 (+20.4% vs 2016)
+- Strong performers:  
+  - Appliances (+64.8%)  
+  - Binders (+46.5%)  
+  - Accessories (+43.1%)  
+  - Phones, Chairs, Storage, Copiers (double-digit growth)  
+- Weak performers:  
+  - Tables (+0.1%)  
+  - Machines (-22.1%)  
+
+**Recommendation:**  
+- Increase investment in **high-growth subcategories** (Appliances, Binders, Accessories).  
+- Reassess strategy for **Machines** and **Tables**, focusing on product positioning, pricing, or potential product refresh.
+
+---
+
+#### Furniture
+- **Total Sales 2017:** 215,387 (+8.3%)  
+- Strong growth: Bookcases (+14.3%), Chairs (+13.9%)  
+- Weak growth: Furnishings (+3.7%), Tables (+0.1%)  
+
+**Recommendation:**  
+- Maintain growth in **Chairs** and **Bookcases** with targeted promotions.  
+- Review marketing and pricing strategy for **Tables**, as growth has stalled despite being top 5 in sales.
+
+---
+
+#### Office Supplies
+- **Total Sales 2017:** 246,097 (+33.8%)  
+- Strong growth: Appliances (+64.8%), Art (+48.7%), Binders (+46.5%), Paper, Labels  
+- Decline: Envelopes (-28.6%), Fasteners (-10.7%)  
+
+**Recommendation:**  
+- Focus expansion on **Appliances, Art, and Binders**.  
+- Investigate demand shifts for **Envelopes and Fasteners** (digitalization, product relevance) and decide whether to phase out or reposition.
+
+---
+
+#### Technology
+- **Total Sales 2017:** 271,731 (+20.0%)  
+- Strong growth: Accessories (+43.1%), Phones (+33.4%), Copiers (+26.8%)  
+- Decline: Machines (-22.1%)  
+
+**Recommendation:**  
+- Capitalize on strong demand for **Phones and Accessories** with bundled sales and promotions.  
+- Conduct a deep dive into **Machines**’s decline to assess whether it is structural (market shrinkage) or competitive (pricing, product features).
+
+---
+
+### 3. City-Level Performance
+
+#### Overall Top 10 Cities
+- **Total Sales 2017:** 339,408 (+27.5%)  
+- Top growth: Seattle (+252.7%), Columbus (+84.8%), New York City (+58.6%)  
+- Decline: Lafayette (-69.5%), Detroit (-42.7%), Los Angeles (-13.3%), Houston (-1.4%)  
+
+**Recommendation:**  
+- Double down on **Seattle, Columbus, and NYC** with stronger sales coverage.  
+- Diagnose causes of decline in **Detroit and Lafayette** — may require local pricing adjustments or channel strategy changes.
+
+---
+
+#### Furniture by City
+- **Total Sales 2017:** 97,810 (+6.7%)  
+- Top growth: Chicago (+99.4%), Philadelphia (+151.9%), Seattle (+139.5%)  
+- Decline: Springfield (-76.7%), San Diego (-53.9%), Houston (-36.1%)  
+
+**Recommendation:**  
+- Scale efforts in **Philadelphia and Seattle** as they show explosive growth.  
+- Reduce exposure or redesign product mix in declining cities.
+
+---
+
+#### Office Supplies by City
+- **Total Sales 2017:** 105,216 (+22.7%)  
+- Top growth: Seattle (+178.4%), Springfield, Philadelphia, Columbus (>90%)  
+- Decline: Detroit (-82.9%), NYC (+0.7% flat growth)  
+
+**Recommendation:**  
+- Explore why **NYC** is stagnant despite being the top sales contributor.  
+- Consider shifting inventory from **Detroit** to higher-performing cities.
+
+---
+
+#### Technology by City
+- **Total Sales 2017:** 142,183 (+33.9%)  
+- Top growth: Newark (+643.7%), Seattle (+490.9%), NYC (+202.1%), Columbus (+174.3%), SF (+97.2%)  
+- Decline: Lafayette (-97.1%), San Diego (-88.3%), Philadelphia, Chicago, LA  
+
+**Recommendation:**  
+- Treat **Newark and Seattle** as breakthrough markets with untapped potential.  
+- Investigate **San Diego and Lafayette**’s collapse to avoid further losses.
+
+---
+
+### 4. Segment Performance
+
+#### Consumer
+- **Total Sales 2017:** 287,389 (+12.2%)  
+- Strong growth: Appliances (+101.8%), Phones (+54.5%), Copiers, Binders (>45%)  
+- Decline: Machines (-88.8%), Storage (-11.7%), Accessories (-2.2%)  
+
+**Recommendation:**  
+- Strengthen focus on **Phones and Appliances**.  
+- Address **Machines** collapse — likely due to technology substitution or outdated offerings.
+
+---
+
+#### Corporate
+- **Total Sales 2017:** 214,098 (+16.3%)  
+- Strong growth: Binders (+161.2%), Appliances (+117.4%), Accessories (+90.4%), Storage (+51.9%), Machines (+63.4%)  
+- Decline: Tables (-46.4%), Copiers (-56.9%), Chairs (-17.6%)  
+
+**Recommendation:**  
+- Push **Binders, Appliances, Accessories** with B2B campaigns.  
+- Reconsider strategy for **Tables and Copiers**, which are underperforming in corporate use cases.
+
+---
+
+#### Home Office
+- **Total Sales 2017:** 150,456 (+60.9%)  
+- Strong growth: Copiers (+234.5%), Tables (+200.2%), Accessories (+123.4%), Machines (+131.0%), Chairs/Furnishings (>65%)  
+- Decline: Binders (-29.9%)  
+
+**Recommendation:**  
+- Expand aggressively in **Home Office** segment, leveraging remote work trends.  
+- Limit investment in **Binders**, which show clear decline in home use.
+
+---
+
+### 5. Profit by State
+- Top profit: California (76,381.4), New York (74,038.5), Washington (33,402.7), Michigan (24,463.2)  
+- Heavy losses: Texas (-25,729.4), Ohio (-16,971.4), Pennsylvania (-15,560.0), Illinois (-12,607.9)  
+- Mid-sized states like Indiana, Virginia, Georgia, Kentucky show strong profitability.  
+
+**Recommendation:**  
+- Protect profits in **CA, NY, WA, MI** with sustained investment.  
+- Audit cost structure and sales strategy in **TX, OH, PA, IL** to stop losses.  
+- Replicate successful strategies from **Indiana, Virginia, and Georgia** in similar markets.
+
+---
+
+### 6. Seasonality Analysis
+- Sales consistently **peak in Q4 (Nov–Dec)**.  
+- Drop in **Oct 2017** requires investigation.  
+- Overall sales trend upward year-over-year.  
+
+**Recommendation:**  
+- Maximize marketing efforts in **Q4**.  
+- Investigate October decline (competitor promotion, supply chain, or pricing issue).  
+
+---
+
+### 7. State-Level Sales Concentration
+- **Highest Sales:** California (457,688), New York (310,876) — dominant markets.  
+- **Lowest Sales:** Idaho (305), South Dakota, Nebraska, Iowa, Kansas (300–650).  
+
+**Recommendation:**  
+- Prioritize **CA and NY** for major revenue growth.  
+- Consider whether to scale back in extremely low-performing states, or adopt low-cost digital strategies to test potential.
+
+---
+
+### Final Recommendations
+1. **Focus expansion** on high-growth subcategories (Appliances, Phones, Binders, Accessories).  
+2. **Fix underperformers** like Machines, Tables, Envelopes, and Copiers through repositioning or rationalization.  
+3. **Double down** on breakout cities (Seattle, Newark, Philadelphia) and scale back in collapsing markets (Detroit, Lafayette, San Diego).  
+4. **Leverage seasonality** with strong Q4 campaigns to capture holiday demand.  
+5. **Rebalance state strategy**: protect profits in CA/NY, stop losses in TX/OH/PA/IL, and replicate success in mid-sized states.  
+6. **Segment-specific targeting**:  
+   - Consumer → push Phones & Appliances.  
+   - Corporate → push Binders & Accessories.  
+   - Home Office → push Copiers, Tables, and Accessories.  
+
+**Overall:**  
+The company achieved robust growth in 2017 but with uneven performance across products, cities, and states. Strategic focus should be on consolidating high-growth areas, fixing loss-making regions, and maximizing seasonal opportunities.
 
 ---
 
